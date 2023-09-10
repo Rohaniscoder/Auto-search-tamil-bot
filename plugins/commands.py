@@ -173,7 +173,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
+                          InlineKeyboardButton("Mᴏᴠɪᴇ  Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
                          ]
                         ]
                     )
@@ -330,7 +330,7 @@ async def start(client, message):
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
+                      InlineKeyboardButton("Mᴏᴠɪᴇ R Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
                      ]
                     ]
                 )
@@ -392,7 +392,7 @@ async def start(client, message):
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
+                      InlineKeyboardButton("Mᴏᴠɪᴇ  Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
                      ]
                     ]
                 )
@@ -452,7 +452,7 @@ async def start(client, message):
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
+              InlineKeyboardButton("Mᴏᴠɪᴇ  Gʀᴏᴜᴘ", url="https://t.me/+Q3Y_XS79svY3NDI1")
              ]
             ]
         )
