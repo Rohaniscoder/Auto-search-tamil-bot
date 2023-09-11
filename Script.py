@@ -198,11 +198,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/sauravMkv> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
-▫️<a href=ʀᴇǫᴜᴇsᴛ> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
+    CAPTION = """<b> <a href=https://t.me/+0silU4tAg21lMTU1>{file_name}</a>
+
+</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
